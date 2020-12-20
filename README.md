@@ -17,3 +17,7 @@ These features are implemented with the help of :-
 ![Screenshot (10)](https://user-images.githubusercontent.com/44225090/102700070-49feb180-4274-11eb-95d4-a4a418eccc37.png)
 ![Android Emulator - Pixel_3_XL_API_27_5554 12_20_2020 3_34_13 AM](https://user-images.githubusercontent.com/44225090/102700078-6995da00-4274-11eb-856c-93b836f35a8c.png)
 ![Android Emulator - Pixel_3_XL_API_27_5554 12_20_2020 3_34_01 AM](https://user-images.githubusercontent.com/44225090/102700083-70245180-4274-11eb-83ec-eb0f092c26df.png)
+# Figma Design Link
+
+- [Figma](https://www.figma.com/file/mNj5GoKEVv4IFxrQXRpetF/CoolMusic-Design?node-id=0%3A1)
+
